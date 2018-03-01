@@ -81,6 +81,9 @@ printf("Et le nombre de fibo\(%d\) = %d\n",n,fibo(n));
 triangle(n);
 
 printf("\n");
+    n=20;
+triangle(n);
+printf("\n");
 
 return 0;
 }
